@@ -8,12 +8,18 @@ body {
  
 input {
   color: gray;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   width: 100%;
 }
 
 h2 {
-  color: blueviolet
+  color: blueviolet;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+form {
+  padding: 15px;
 }
 
 .card-grid {
